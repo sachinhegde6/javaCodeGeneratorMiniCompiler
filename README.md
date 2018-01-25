@@ -244,12 +244,3 @@ As the readXmlFile method is invoked in the constructor, all the getter methods 
 `compile 'com.github.javaparser:javaparser-core:3.5.4'`
 ## _Known Issues_
 _None_
-
-## _Authors_
-Sachin Hegde: 
-
-Vishwanath Muddu : 
-
-Adarsh Ratnakar Hegde: 
-
-Gopi Krishnan Narasimha Guptha
